@@ -7,7 +7,7 @@ python-ldap==3.2.0
 pyodbc==4.0.27
 openpyxl==3.0.2
 pycryptodome==3.9.4
-cryptography==3.2
+cryptography==3.3.2
 python-memcached==1.59
 wemake-python-styleguide==0.13.3
 
